@@ -1,0 +1,27 @@
+{
+  "name": "rconllse",
+  "version": "1.0.0",
+  "description": "Плагин для LLSE, который добавляет поддержку RCon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mineserv-top/RconLLSE.git"
+  },
+  "keywords": [
+    "RCon",
+    "server",
+    "RCon",
+    "LLSE",
+    "LL",
+    "LiteloaderBDS"
+  ],
+  "author": "Alpha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mineserv-top/RconLLSE/issues"
+  },
+  "homepage": "https://github.com/mineserv-top/RconLLSE#readme"
+}
