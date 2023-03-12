@@ -39,7 +39,7 @@ The plugin was developed specifically for Minecraft servers monitoring [**Minese
 
 Плагин был разработан специально для мониторинга Minecraft серверов [**Mineserv.top**](https://mineserv.top)
 
-ZH:
+# ZH:
 
 一个LLSE插件，加入了对类似Java服务器的RCON协议的支持，用于执行命令
 
